@@ -42,7 +42,6 @@ targets:
     dependencies:
       - sdk: CoreData.framework
       - sdk: ServiceManagement.framework
-      - sdk: Carbon.framework
     entitlements:
       path: ClipStack/ClipStack.entitlements
 
